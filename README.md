@@ -4,6 +4,8 @@
 
 Hedera Policy Sentinel is a policy-constrained payment agent for the Hedera AI Agent Bounty. It combines AI-friendly payment intents with deterministic controls that cannot be bypassed by an LLM.
 
+**Live demo:** https://wangshukai967-hub.github.io/hedera-policy-sentinel/
+
 ## Why It Matters
 
 AI can interpret a user's request, but it should never have the final word on moving funds. Policy Sentinel places Hedera Agent Kit policies directly in the transaction lifecycle, before signing and submission.

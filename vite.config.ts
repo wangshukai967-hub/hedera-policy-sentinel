@@ -3,6 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   root: "web",
+  base: "/hedera-policy-sentinel/",
   plugins: [react()],
   build: {
     outDir: "../web-dist",

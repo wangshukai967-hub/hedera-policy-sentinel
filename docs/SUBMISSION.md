@@ -13,6 +13,12 @@
 
 Policy Sentinel lets an AI agent understand and propose a payment while deterministic Hedera Agent Kit policies retain final authority over whether funds can move.
 
+## Submission Links
+
+- Public GitHub repository: https://github.com/wangshukai967-hub/hedera-policy-sentinel
+- Interactive demo: https://wangshukai967-hub.github.io/hedera-policy-sentinel/
+- Agent Kit feedback: pending approval to publish
+
 Unlike prompt-only guardrails, the policy runs inside the Hedera tool lifecycle before transaction signing and submission. It checks recipient allowlists, business purpose, per-payment limits, daily limits, active hours, and request-bound human approval. Every decision receives a deterministic digest and can be anchored to HCS.
 
 ## Demo Flow
