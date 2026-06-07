@@ -34,6 +34,6 @@ Unlike prompt-only guardrails, the policy runs inside the Hedera tool lifecycle 
 - Publish the repository publicly.
 - Run one dedicated Hedera testnet transaction and capture its transaction ID.
 - Create an HCS topic and capture one decision audit message.
-- Record a short demo video or publish a social media demo.
+- Use the published interactive demo URL in the demo/social field.
 - Submit one piece of feedback about Hedera Agent Kit or tooling.
 - Complete the submission form before Sunday, June 21, 2026 at 23:59 UTC.
