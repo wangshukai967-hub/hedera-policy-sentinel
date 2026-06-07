@@ -6,6 +6,8 @@
 - Theme: Policy-constrained agent payments in HBAR or USDC
 - Prize: $1,500 in HBAR
 - Deadline: June 21, 2026 at 23:59 UTC
+- One bounty entry is allowed per person or team.
+- The submission form requires a public GitHub URL, demo/social URL, wallet address, implementation details, and a Hedera tooling feedback link.
 
 ## Project Pitch
 
@@ -28,3 +30,4 @@ Unlike prompt-only guardrails, the policy runs inside the Hedera tool lifecycle 
 - Create an HCS topic and capture one decision audit message.
 - Record a short demo video or publish a social media demo.
 - Submit one piece of feedback about Hedera Agent Kit or tooling.
+- Complete the submission form before Sunday, June 21, 2026 at 23:59 UTC.
